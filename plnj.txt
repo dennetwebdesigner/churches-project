@@ -1,0 +1,17 @@
+- Tecnologias
+
+API ->
+Express, jsonWebToken, bcrypt, 
+SOLID -> Services, Repository, implemetations
+
+UserCreate-> UserCreateController, UserCreateService, UserCreateDTO, index
+Repository-> iUserRepository, implemetations -> UserRepository
+
+DATABASE -> 
+SQL, prisma,  
+
+FRONTEND ->
+React
+
+- RESUMO DO PROJETO ->
+Sistema de sites  para igrejas
